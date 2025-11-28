@@ -1,16 +1,22 @@
 ---
-title: "Bill Walsh leadership lessons"
-description: "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty? Discover the leadership principles that made it possible."
+title: Bill Walsh leadership lessons cobi
+description: Like to know the secrets of transforming a 2-14 team into a 3x
+  Super Bowl winning Dynasty? Discover the leadership principles that made it
+  possible.
 pubDate: 2023-06-19
 author:
   name: Desiree Geeth
   avatar: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face
 category: management
-tags: ["leadership", "management", "sports", "business"]
+tags:
+  - leadership
+  - management
+  - sports
+  - business
 featuredImage: https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop
 featured: false
-draft: false
 ---
+
 
 Bill Walsh is widely regarded as one of the greatest coaches in NFL history. His innovative approach to leadership transformed the San Francisco 49ers from the league's worst team to a dynasty that won three Super Bowls.
 
